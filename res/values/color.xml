@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--common-->
+    <color name="common_green">#5eb629</color>
+    <color name="common_green_dark">#4e9e1e</color>
+    <color name="gray_light_f">#f1f1f1</color>
+    <color name="gray_light_c">#ccc</color>
+    <color name="gray_light_a">#aaa</color>
+    <color name="gray_light_9">#999</color>
+    <color name="gray_light_6">#666</color>
+    <color name="gray_light_3">#333</color>
+    <color name="gray_light_1">#1f1f1f</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- common btn -->
+    <color name="common_bt_press">#23212121</color>
+    <color name="common_bt">#00000000</color>
+
+    <color name="btn_txt_white">#efefef</color>
+    <color name="btn_txt_black">#212121</color>
+
+    <color name="btn_green">#55c138</color>
+    <color name="btn_green_press">#40932a</color>
+
+    <color name="btn_grey">#a3afb3</color>
+    <color name="btn_grey_press">#7d8588</color>
+
+    <color name="btn_blue">#1c98d8</color>
+    <color name="btn_blue_press">#177bae</color>
+    <color name="btn_orange">#fb8571</color>
+    <color name="btn_orange_press">#fb6551</color>
+
+    <!--common color -->
+    <color name="bkg_common_black">#2f2f2f</color>
+    <color name="bkg_common_white">#ececec</color>
+
+
+    <!-- avatar color -->
+    <color name="avatar_gold">#d0ad8e</color>
+    <color name="avatar_gray">#bcbcbc</color>
+    <color name="avatar_red">#e8abab</color>
+    <color name="avatar_blue">#92b7e1</color>
+    <color name="avatar_black">#7f7f7f</color>
+</resources>

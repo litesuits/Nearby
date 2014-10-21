@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--基础主题-->
+    <style name="AppTheme">
+        <item name="@android:windowAnimationStyle">@style/ActAmin</item>
+    </style>
+
+    <!--黑色主题-->
+    <style name="AppTheme.Black" parent="android:Theme.Holo.NoActionBar">
+        <item name="@android:windowBackground">@color/bkg_common_black</item>
+        <item name="CommonButtonStyle">@style/CommonButton.Black</item>
+    </style>
+
+    <!--白色主题-->
+    <style name="AppTheme.White" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="@android:windowBackground">@color/bkg_common_white</item>
+        <item name="CommonButtonStyle">@style/CommonButton.White</item>
+    </style>
+
+    <!-- 透明主题 -->
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Transparent.Black" parent="AppTheme.White">
+    </style>
+    <style name="Transparent.White" parent="AppTheme.Black">
+    </style>
+
+    <!-- 通用样式：按钮 -->
+    <style name="CommonButton">
+    </style>
+    <style name="CommonButton.White">
+        <item name="android:background">@drawable/btn_border_black</item>
+        <item name="android:textColor">@color/btn_txt_black</item>
+    </style>
+    <style name="CommonButton.Black">
+        <item name="android:background">@drawable/btn_border_white</item>
+        <item name="android:textColor">@color/btn_txt_white</item>
+    </style>
+
+    <!-- 出入场动画 -->
+    <style name="ActAmin">
+        <item name="@android:activityOpenEnterAnimation">@null</item>
+        <item name="@android:activityOpenExitAnimation">@null</item>
+        <item name="@android:activityCloseEnterAnimation">@null</item>
+        <item name="@android:activityCloseExitAnimation">@null</item>
+    </style>
+</resources>

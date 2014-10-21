@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">惠客</string>
+    <!-- 首页 -->
+    <string name="near">附近</string>
+    <string name="follow">关注</string>
+    <string name="delicious">美食</string>
+    <string name="relax">娱乐</string>
+    <string name="hotel">酒店</string>
+    <string name="life">生活</string>
+    <string name="label_discount">折</string>
+    <string name="label_reduce">减</string>
+    <string name="label_asmoney">现</string>
+    <string name="label_new_product">新</string>
+    <!-- 菜单 -->
+    <string name="my_score">积分</string>
+    <string name="my_coupon">我的优惠</string>
+    <string name="my_collect">店铺收藏</string>
+    <string name="my_psd">修改密码</string>
+    <string name="my_logout">注销账户</string>
+    <string name="about_huike">关于惠客</string>
+    <!-- 店铺页 -->
+    <string name="shop_coupon">店铺优惠</string>
+    <!-- 搜素 -->
+    <string name="search">搜索</string>
+    <string name="coupon">优惠</string>
+    <string name="clear_search_his">清除历史记录</string>
+
+    <!-- 发布优惠 -->
+    <string name="coupon_send">发优惠</string>
+    <string name="send">发送</string>
+    <string name="select_coupon">选择优惠</string>
+    <string name="discount">折扣</string>
+    <string name="reduce">满减</string>
+    <string name="asmoney">抵现</string>
+    <string name="new_prodouct">新品</string>
+    <string name="select_pic">选择图片</string>
+    <string name="input_tilte">输入标题</string>
+    <string name="time_start">开始时间</string>
+    <string name="time_end">结束时间</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="date">日</string>
+    <string name="detail">详细内容</string>
+    <string name="preview">预览</string>
+</resources>
